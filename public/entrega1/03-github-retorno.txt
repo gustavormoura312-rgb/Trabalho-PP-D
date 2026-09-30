@@ -1,0 +1,2 @@
+Homepage URL: https://trabalho-pp-d.pages.dev
+Authorization callback URL: https://trabalho-pp-d.pages.dev/oauth/callback/github
